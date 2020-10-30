@@ -1,3 +1,5 @@
+# This program provides the total number of prime numbers within a range, and as well as the output comes with primes in the 'primes' array 
+
 primes=[]
 print("\n")
 print("Program for finding all primes within a range")
