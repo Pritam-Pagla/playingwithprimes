@@ -18,7 +18,7 @@ ub = int(input("Enter the upper-bound: "))
 
 for integer in range(lb, ub):
     if(primeTest(integer)==True):
-        primes.append(integer)
+        primes.append(integer)  # just figure out the primes and put them in the `primes` list
 
 print("\n")
 print("Number of Primes: "+str(len(primes)))
