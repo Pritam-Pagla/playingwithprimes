@@ -1,4 +1,4 @@
-no_of_skips=[0]      # skip_amount within which the ration of (Number of Twin Prime Paris vs Range; is to be determined)
+no_of_skips=[0]      # ration of (Number of Twin Prime Paris vs Range; is to be determined)
 twinPrime_dist=[]      # twinPrime_dist[1]={Number of Twin Prime Pairs within [0,(1*skip_amount)]}/{total numbe of natural numbers within the range}; it is the twinPrimeDistribution
 
 print("\n")
